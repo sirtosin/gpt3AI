@@ -1,2 +1,2 @@
-# Modern UI/UX GPT-3
-### [Live Site]()
+# GPT-3 AI
+### [Live Site](https://awesome-austin-8afd15.netlify.app/)
